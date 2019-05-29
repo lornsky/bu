@@ -28,22 +28,16 @@
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>application-identifier</key>
-				<string>65YG889FGF.com.yitong.*</string>
-				<key>com.apple.developer.siri</key>
-				<true/>
-				<key>com.apple.developer.team-identifier</key>
-				<string>65YG889FGF</string>
-				<key>get-task-allow</key>
-				<false/>
-				<key>keychain-access-groups</key>
-				<array>
-					<string>65YG889FGF.*</string>
-				</array>
+				<dict>
+				<key>bundle-identifier</key>
+				<string>com.SolarSoft.SolarWallet</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>步召德医生</string>
+				<string>步召德</string>
+			</dict>
 			</dict>
 		</dict>
 	</array>
