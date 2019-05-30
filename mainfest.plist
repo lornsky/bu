@@ -28,16 +28,14 @@
 			</array>
 			<key>metadata</key>
 			<dict>
-				<dict>
 				<key>bundle-identifier</key>
-				<string>com.SolarSoft.SolarWallet</string>
+				<string>com.ruoyu.bu</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
 				<string>步召德</string>
-			</dict>
 			</dict>
 		</dict>
 	</array>
